@@ -4,38 +4,26 @@ A comprehensive MATLAB collection of blind source separation (BSS) algorithms an
 
 # Featured Projects:
 
-**[Blind Source Separation - Array Processing](https://github.com/yourusername/array-processing-bss-doa)**  
+**[Blind Source Separation - Array Processing](https://github.com/setdf/music-beamforming-array)**  
 Direction of Arrival estimation using MUSIC and beamforming algorithms
 
-**[Blind Source Separation - ICA Methods](https://github.com/yourusername/independent-component-analysis-ica)**  
+**[Blind Source Separation - ICA Methods](https://github.com/setdf/independent-component-analysis-ica)**  
 Multiple Independent Component Analysis algorithms for signal separation
 
-**[Blind Source Separation - Non-Stationary Sources](https://github.com/yourusername/nonstationary-blind-source-separation)**  
+**[Blind Source Separation - Non-Stationary Sources](https://github.com/setdf/nonstationary-blind-source-separation)**  
 Separation of non-stationary and uncorrelated sources
 
-**[Sparse Signal Recovery](https://github.com/yourusername/sparse-signal-recovery-methods)**  
+**[Sparse Signal Recovery](https://github.com/setdf/compressed-sensing-sparse-recovery)**  
 Compressed sensing and sparse reconstruction algorithms
 
-**[Dictionary Learning](https://github.com/yourusername/sparse-dictionary-learning)**  
+**[Dictionary Learning](https://github.com/setdf/ksvd-mod-dictionary-learning)**  
 K-SVD and MOD algorithms for sparse representations
 
-**[Sparse Blind Deconvolution](https://github.com/yourusername/sparse-blind-deconvolution)**  
+**[Sparse Blind Deconvolution](https://github.com/setdf/sparse-blind-deconvolution)**  
 Single-channel and multichannel blind deconvolution
 
-**[ICA Non-Gaussianity Methods](https://github.com/yourusername/ica-non-gaussianity-methods)**  
+**[ICA Non-Gaussianity Methods](https://github.com/setdf/ica-non-gaussianity-methods)**  
 Kurtosis maximization and robust ICA approaches
 
-**[EEG BCI System](https://github.com/yourusername/eeg-motor-imagery-bci)**  
+**[EEG BCI System](https://github.com/setdf/eeg-motor-imagery-bci)**  
 Motor imagery classification using CSP and LDA
-
-**[Neural Networks from Scratch](https://github.com/yourusername/deep-neural-network-from-scratch)**  
-Manual implementation of deep learning components
-
-**[OFDM Communication System](https://github.com/yourusername/ofdm-system-simulation)**  
-Complete OFDM transceiver simulation
-
-🔗 **[News Article Clustering](https://github.com/yourusername/news-clustering-nlp)**  
-Text clustering with various NLP techniques
-
-🔗 **[Hotel Price Prediction](https://github.com/yourusername/hotel-price-prediction-ml)**  
-Machine learning classification models
