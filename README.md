@@ -1,4 +1,4 @@
-# bss-algorithms-collection
+
 A comprehensive MATLAB collection of blind source separation (BSS) algorithms and related signal processing techniques. This repository covers array processing, sparse recovery, independent component analysis, and applications in EEG signal classification.
 
 
